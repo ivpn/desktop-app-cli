@@ -1,3 +1,6 @@
+_This is a legacy project.
+Development has been moved to a new repository: https://github.com/ivpn/desktop-app_
+
 # IVPN Command Line Interface (CLI)
 
 **IVPN Command Line Interface** is an official CLI for IVPN software.  
